@@ -42,3 +42,4 @@ It helps manage daily tasks efficiently with a clean neon-dark interface, motiva
 ## 📜 License
 This project is open-source and free to use for learning and personal productivity.
 
+
